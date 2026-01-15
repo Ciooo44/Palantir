@@ -1,2 +1,1 @@
-# Palantir
-We See You! 
+ See You! 
